@@ -1,11 +1,13 @@
-﻿using System.Collections.Generic;
+﻿using demoClasses.Math;
+using System;
+using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace demoClasses
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
@@ -13,6 +15,11 @@ namespace demoClasses
             ben.FirstName = "Ben";
             ben.LastName = "Carter";
             ben.Introduce();
+
+
+            Calculator calculator = new Calculator();
+            var result = calculator.Add(1, 2);
+            Console.WriteLine(result);
         }
     }
 }
