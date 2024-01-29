@@ -1,0 +1,7 @@
+C:\Users\Benjamin\source\repos\csharpfundamental\demoClasses\bin\Debug\demoClasses.exe.config
+C:\Users\Benjamin\source\repos\csharpfundamental\demoClasses\bin\Debug\demoClasses.exe
+C:\Users\Benjamin\source\repos\csharpfundamental\demoClasses\bin\Debug\demoClasses.pdb
+C:\Users\Benjamin\source\repos\csharpfundamental\demoClasses\obj\Debug\demoClasses.csproj.AssemblyReference.cache
+C:\Users\Benjamin\source\repos\csharpfundamental\demoClasses\obj\Debug\demoClasses.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\source\repos\csharpfundamental\demoClasses\obj\Debug\demoClasses.exe
+C:\Users\Benjamin\source\repos\csharpfundamental\demoClasses\obj\Debug\demoClasses.pdb
