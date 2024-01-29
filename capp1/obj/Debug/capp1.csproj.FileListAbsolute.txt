@@ -1,0 +1,7 @@
+C:\Users\Benjamin\source\repos\csharpfundamental\capp1\bin\Debug\capp1.exe.config
+C:\Users\Benjamin\source\repos\csharpfundamental\capp1\bin\Debug\capp1.exe
+C:\Users\Benjamin\source\repos\csharpfundamental\capp1\bin\Debug\capp1.pdb
+C:\Users\Benjamin\source\repos\csharpfundamental\capp1\obj\Debug\capp1.csproj.AssemblyReference.cache
+C:\Users\Benjamin\source\repos\csharpfundamental\capp1\obj\Debug\capp1.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\source\repos\csharpfundamental\capp1\obj\Debug\capp1.exe
+C:\Users\Benjamin\source\repos\csharpfundamental\capp1\obj\Debug\capp1.pdb
