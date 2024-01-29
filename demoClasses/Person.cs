@@ -2,16 +2,14 @@
 
 namespace demoClasses
 {
-    internal class Person
+    public class Person
     {
-        public string FirstName { get; internal set; }
-        public string LastName { get; internal set; }
+        public string FirstName;
+        public string LastName;
 
-        internal void Introduce()
+        public void Introduce()
         {
             Console.WriteLine("My name is " + FirstName + " " + LastName);
         }
-
-       
     }
 }
