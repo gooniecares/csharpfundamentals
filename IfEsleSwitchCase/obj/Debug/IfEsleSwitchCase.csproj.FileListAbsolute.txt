@@ -1,0 +1,7 @@
+C:\Users\Benjamin\source\repos\csharpfundamental\IfEsleSwitchCase\bin\Debug\IfEsleSwitchCase.exe.config
+C:\Users\Benjamin\source\repos\csharpfundamental\IfEsleSwitchCase\bin\Debug\IfEsleSwitchCase.exe
+C:\Users\Benjamin\source\repos\csharpfundamental\IfEsleSwitchCase\bin\Debug\IfEsleSwitchCase.pdb
+C:\Users\Benjamin\source\repos\csharpfundamental\IfEsleSwitchCase\obj\Debug\IfEsleSwitchCase.csproj.AssemblyReference.cache
+C:\Users\Benjamin\source\repos\csharpfundamental\IfEsleSwitchCase\obj\Debug\IfEsleSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\source\repos\csharpfundamental\IfEsleSwitchCase\obj\Debug\IfEsleSwitchCase.exe
+C:\Users\Benjamin\source\repos\csharpfundamental\IfEsleSwitchCase\obj\Debug\IfEsleSwitchCase.pdb
