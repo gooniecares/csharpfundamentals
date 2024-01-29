@@ -6,11 +6,38 @@ using System.Threading.Tasks;
 
 namespace IfEsleSwitchCase
 {
+    
+}
+
+namespace IfEsleSwitchCase
+{
     internal class Program
     {
         static void Main(string[] args)
         {
             int hour = 14;
+
+            var season = Season.Summer;
+
+            switch (season)
+            {
+                case Season.Autumn:
+                    Console.WriteLine("It's Autumn And It's A beautiful season");
+                break;
+
+                case Season.Summer:
+                    Console.WriteLine("It's Summer perfect time to go to beach if no hurricanes.");
+                break;
+
+                case Season.Winter:
+                    Console.WriteLine("We have winter promotions");
+                break;
+
+                default:
+                    Console.WriteLine("I don't understand whats the season");
+                break;
+
+            }
 
             
 
