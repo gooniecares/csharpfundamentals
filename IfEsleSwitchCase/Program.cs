@@ -12,6 +12,24 @@ namespace IfEsleSwitchCase
         {
             int hour = 14;
 
+            
+
+            bool isGoldCustomer = false;
+
+            //float price;
+            //if (isGoldCustomer)
+            //{
+            //    price = 19.95f;
+            //}
+            //else
+            //{
+            //    price = 29.95f;
+            //}
+
+            float price = (isGoldCustomer) ? 19.95f : 29.95f;
+
+            Console.WriteLine(price);
+
             if(hour > 0 && hour < 12) 
             {
                 Console.WriteLine("Its Moring");
