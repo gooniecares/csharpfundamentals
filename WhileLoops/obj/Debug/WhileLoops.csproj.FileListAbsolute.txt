@@ -1,0 +1,7 @@
+C:\Users\Benjamin\source\repos\csharpfundamental\WhileLoops\obj\Debug\WhileLoops.csproj.AssemblyReference.cache
+C:\Users\Benjamin\source\repos\csharpfundamental\WhileLoops\obj\Debug\WhileLoops.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\source\repos\csharpfundamental\WhileLoops\bin\Debug\WhileLoops.exe.config
+C:\Users\Benjamin\source\repos\csharpfundamental\WhileLoops\bin\Debug\WhileLoops.exe
+C:\Users\Benjamin\source\repos\csharpfundamental\WhileLoops\bin\Debug\WhileLoops.pdb
+C:\Users\Benjamin\source\repos\csharpfundamental\WhileLoops\obj\Debug\WhileLoops.exe
+C:\Users\Benjamin\source\repos\csharpfundamental\WhileLoops\obj\Debug\WhileLoops.pdb
