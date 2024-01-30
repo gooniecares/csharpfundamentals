@@ -1,0 +1,7 @@
+C:\Users\Benjamin\source\repos\csharpfundamental\ForEachLoops\bin\Debug\ForEachLoops.exe.config
+C:\Users\Benjamin\source\repos\csharpfundamental\ForEachLoops\bin\Debug\ForEachLoops.exe
+C:\Users\Benjamin\source\repos\csharpfundamental\ForEachLoops\bin\Debug\ForEachLoops.pdb
+C:\Users\Benjamin\source\repos\csharpfundamental\ForEachLoops\obj\Debug\ForEachLoops.csproj.AssemblyReference.cache
+C:\Users\Benjamin\source\repos\csharpfundamental\ForEachLoops\obj\Debug\ForEachLoops.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\source\repos\csharpfundamental\ForEachLoops\obj\Debug\ForEachLoops.exe
+C:\Users\Benjamin\source\repos\csharpfundamental\ForEachLoops\obj\Debug\ForEachLoops.pdb
